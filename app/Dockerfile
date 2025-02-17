@@ -1,5 +1,5 @@
 # Use uma iamgem official do Python
-FROM python:3.10
+FROM python:3
 
 # Definindo o diretório onde a aplicação será armazenada
 WORKDIR /app
